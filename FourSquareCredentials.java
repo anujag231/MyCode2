@@ -17,7 +17,7 @@ public class FourSquareCredentials {
 
 	public void setClientId(String clientId) {
 		ClientId = clientId;
-	}
+	}     
 
 	public String getClient_Secret() {
 		return Client_Secret;
